@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GeometricShapes3/1.0.0": {
+        "dependencies": {
+          "FiguresCore": "1.0.0"
+        },
+        "runtime": {
+          "GeometricShapes3.dll": {}
+        }
+      },
+      "FiguresCore/1.0.0": {
+        "runtime": {
+          "FiguresCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeometricShapes3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FiguresCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

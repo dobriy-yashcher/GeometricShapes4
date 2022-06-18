@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\GeometricShapes3\FiguresCore\bin\Debug\net5.0\FiguresCore.deps.json
+C:\Users\Admin\source\repos\GeometricShapes3\FiguresCore\bin\Debug\net5.0\FiguresCore.dll
+C:\Users\Admin\source\repos\GeometricShapes3\FiguresCore\bin\Debug\net5.0\FiguresCore.pdb
+C:\Users\Admin\source\repos\GeometricShapes3\FiguresCore\obj\Debug\net5.0\FiguresCore.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GeometricShapes3\FiguresCore\obj\Debug\net5.0\FiguresCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\GeometricShapes3\FiguresCore\obj\Debug\net5.0\FiguresCore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\GeometricShapes3\FiguresCore\obj\Debug\net5.0\FiguresCore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\GeometricShapes3\FiguresCore\obj\Debug\net5.0\FiguresCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GeometricShapes3\FiguresCore\obj\Debug\net5.0\FiguresCore.dll
+C:\Users\Admin\source\repos\GeometricShapes3\FiguresCore\obj\Debug\net5.0\refint\FiguresCore.dll
+C:\Users\Admin\source\repos\GeometricShapes3\FiguresCore\obj\Debug\net5.0\FiguresCore.pdb
+C:\Users\Admin\source\repos\GeometricShapes3\FiguresCore\obj\Debug\net5.0\ref\FiguresCore.dll
