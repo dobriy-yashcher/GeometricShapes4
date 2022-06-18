@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Turushkin Sergey, 220P "GeometricShapes4" 01.06.22
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
